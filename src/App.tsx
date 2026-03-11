@@ -131,7 +131,7 @@ export default function App() {
       <header>
         <div className="header-row">
           <div>
-            <h1>Small World 그래프 최적화</h1>
+            <h1>Metropolitan Ring Road System</h1>
             <p>무방향 그래프를 입력하고 경로 탐색으로 최적화된 방향을 확인하세요.</p>
           </div>
           <button
